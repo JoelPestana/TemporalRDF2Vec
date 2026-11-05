@@ -13,7 +13,7 @@ Standard RDF2Vec treats all connected edges with equal probability. When contain
 2. `python -m venv venv`
 3. `venv\Scripts\activate` (Windows) or `source venv/bin/activate` (Linux/macOS)
 4. `pip install -r requirements.txt`
-5. `python src/download_data.py`
+5. `python TemporalRDF2Vec/src/download_data.py`
 
 ## Running the analysis
 Run the notebooks in `notebooks/` in order.
