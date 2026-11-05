@@ -19,4 +19,4 @@ Standard RDF2Vec treats all connected edges with equal probability. When contain
 Run the notebooks in `notebooks/` in order.
 
 ## Authors
-Name 1, Name 2, Name 3
+Lucía Navarro, Pablo Osuna & Joel Pestana
